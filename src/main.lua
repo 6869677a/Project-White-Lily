@@ -66,7 +66,7 @@ local utf8 = require("utf8")
 
 local CONFIG = {
 
-    title = "c0deg0d | w0rmerVNGine 2.0 RC3",
+    title = "",
     startScene = nil,
 
     width = 1280,
